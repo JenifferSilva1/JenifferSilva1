@@ -1,4 +1,4 @@
-### Hi there! 👋
+### Olá, pessoal! Sejam bem-vindos ao meu GitHub! 👋
 
 <div align="center">
   <a href="https://github.com/JenifferSilva1">
@@ -15,7 +15,7 @@
   
 </div>
 
-## <br>
+## 
 
 <div>
 
