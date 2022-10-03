@@ -1,4 +1,4 @@
-### Olá, pessoal! 👋
+### Hi there! 👋
 
 <div align="center">
   <a href="https://github.com/JenifferSilva1">
